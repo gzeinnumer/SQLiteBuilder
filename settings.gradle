@@ -1,0 +1,3 @@
+include ':sb'
+include ':app'
+rootProject.name = "SQLiteBuilder"
