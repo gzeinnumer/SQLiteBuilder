@@ -276,7 +276,7 @@ public class DBInstance extends SQLiteBuilder {
 
 ---
 
-You can combine this library with [EaseSQLCRUD](https://github.com/gzeinnumer/EaseSQLCRUD)
+You can combine this library with [EasySQLCRUD](https://github.com/gzeinnumer/EaseSQLCRUD)
 
 ---
 # Example Code/App
