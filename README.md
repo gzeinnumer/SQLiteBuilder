@@ -281,7 +281,7 @@ You can combine this library with [EasySQLiteCRUD](https://github.com/gzeinnumer
 ---
 # Example Code/App
 
-Sample APP, just clone it [Java](https://github.com/gzeinnumer/MyLibSQLiteBuilderExample) & [Kotlin](https://github.com/gzeinnumer/MyLibSimpleSQLitekt)
+Sample APP, just clone it [Java](https://github.com/gzeinnumer/MyLibSQLiteBuilderExample) & [Kotlin](https://github.com/gzeinnumer/MyLibSQLiteBuilderExampleKt)
 
 [Sample Code And App](https://github.com/gzeinnumer/MyLibSQLiteBuilderExample)
 
