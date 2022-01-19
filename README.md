@@ -69,7 +69,7 @@ dependencies {
 Example : Make class `Table1` and put your query **`CREATE TABLE table1(...);`** to annotation `@CreateTableQuery(query = { ... })`.
 ```java
 @CreateTableQuery(
-    query = "CREATE TABLE table1 (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, rating REAL, descr TEXT, flag_active INTEGER, created_at TEXT)"
+    query = "CREATE TABLE table1 (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, rating REAL, desc TEXT, flag_active INTEGER, created_at TEXT)"
 )
 public class Table1{
 
